@@ -1,0 +1,43 @@
+.section {
+    padding: 10px 0px 0px;
+}
+.site_logo{
+    padding: 20px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 126px;
+    width: 408px;
+}
+.site_logo img {
+    margin: 0px 0px 0px 24px;
+    height: 94px;
+    width: 400px;
+    
+    
+}
+.logo-gso2021{
+    padding: 12px 0px 15px;
+}
+.logo-gso2021 img {
+    top: 22px;
+    position: absolute;
+    right: 10px;
+    height: 87px;
+    width: 200px;
+    
+    
+}
+ul span {
+    position: center;
+    display: inline-flex;
+    font-size: 19px;
+    padding: 50px 50px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    
+}    
+nav span {
+    padding: 18px ;
+    margin: top;
+    border: 2px solid;
+    
+    
+}
